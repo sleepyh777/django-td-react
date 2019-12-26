@@ -1,0 +1,8 @@
+*.iml
+.idea/
+*.ipr
+*.iws
+*.log
+.DS_Store
+db.sqlite3
+*.py[cod]
