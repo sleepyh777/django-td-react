@@ -11,6 +11,11 @@ import {
     Label
 } from "reactstrap";
 
+// activeItem represents the Todo item to be edited.
+// toggle is a function used to control the Modal’s state i.e open or close the modal.
+// onSave is a function that is called to save the edited values of the Todo item.
+
+
 export default class CustomModal extends Component {
     constructor(props) {
         super(props);
