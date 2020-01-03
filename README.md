@@ -15,4 +15,4 @@ todo app off Django and React.
 
 ### Run
 1. Run this command ```cd django-todo-react/backend``` and then```python3 manage.py runserver```
-2. Run this command ```cd django-todo-react/frontend``` and then ```npm install```
+2. Run this command ```cd django-todo-react/frontend``` and then ```npm install``` and then ```npm start```(it would start localhost:3000)
